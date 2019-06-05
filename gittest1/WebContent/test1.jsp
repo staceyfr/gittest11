@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>test2.jsp</h1>
-<h3>github gittest1</h3>
-<h3>github gittest1</h3>
+<h1>gittest1</h1>
 
 </body>
 </html>
